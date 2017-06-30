@@ -10,6 +10,8 @@ namespace GitHubConsoleTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Running");
+            Console.ReadLine();
         }
     }
 }
